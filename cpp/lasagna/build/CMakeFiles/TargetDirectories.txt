@@ -1,0 +1,4 @@
+/Users/anilkumar/exercism/cpp/lasagna/build/CMakeFiles/lasagna.dir
+/Users/anilkumar/exercism/cpp/lasagna/build/CMakeFiles/test_lasagna.dir
+/Users/anilkumar/exercism/cpp/lasagna/build/CMakeFiles/edit_cache.dir
+/Users/anilkumar/exercism/cpp/lasagna/build/CMakeFiles/rebuild_cache.dir

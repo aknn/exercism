@@ -1,0 +1,1 @@
+let g:dap_python_executable = '/Users/anilkumar/Exercism/python/venv/bin/python'
